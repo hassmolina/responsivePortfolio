@@ -219,7 +219,8 @@ margin-top: 4%;
   height: 120px;
   color:white;
 }
-.box.clicked.projects{
+
+.box.clickedp.projects{
   background-image: url("../icons/bullybot.png");
   background-size: cover;
     border: 10px solid black;
@@ -233,6 +234,7 @@ margin-top: 4%;
   height: 120px;
 color: white;
 }
+
 .box.clicked.about{
   background-image: url("../icons/xquarks.png");
   background-size: cover;
@@ -274,4 +276,14 @@ margin-top: 4%;
   position: relative;
 margin-left: 53%;
 font-size: 137%;
+}
+
+/*BOTON CV*/
+btn-color{
+  background-color: #454244;
+color: white;
+transition: all .5s;
+border: none !important;
+padding: 3%;
+border-radius: 48%;
 }
