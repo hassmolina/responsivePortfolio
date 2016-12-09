@@ -216,11 +216,11 @@ color:transparent;
   left: 0;
   background-color: #B50412;
 margin-top: 4%;
-  height: 120px;
+  height: 170px;
   color:white;
 }
 
-.box.clickedp.projects{
+.box.clicked.projects{
   background-image: url("../icons/bullybot.png");
   background-size: cover;
     border: 10px solid black;
@@ -228,10 +228,10 @@ margin-top: 4%;
 }
 .projects {
   top: 0;
-  left: 50%;
+  left:0;
   background-color: black;
 margin-top: 4%;
-  height: 120px;
+  height: 170px;
 color: white;
 }
 
@@ -243,10 +243,10 @@ color: white;
 }
 .about {
   top: 50%;
-  left: 0;
+  right: 0;
   background-color: #8b8c91;
 margin-top: 4%;
-  height: 120px;
+  height: 170px;
   color:white;
 }
 .box.clicked.contact{
@@ -256,11 +256,11 @@ border: 10px solid #2e2c2d;
 color:transparent
 }
 .contact {
-  top: 50%;
-  left: 50%;
+  top: 0;
+  left: 0;
   background-color: #2e2c2d;
 margin-top: 4%;
-  height: 120px;
+  height: 170px;
   color: white;
 }
 .tlt-pro{
@@ -274,10 +274,22 @@ margin-top: 4%;
 }
 .des-pro2{
   position: relative;
-margin-left: 53%;
-font-size: 137%;
+    margin-left: 51%;
+    margin-top: -33%;
+    font-size: 137%;
 }
-
+.des-pro3{
+  position: relative;
+    margin-left: 51%;
+    margin-top: -33%;
+    font-size: 137%;
+}
+.des-pro4{
+  position: relative;
+    margin-left: 51%;
+    margin-top: -15%;
+    font-size: 137%;
+}
 /*BOTON CV*/
 btn-color{
   background-color: #454244;
