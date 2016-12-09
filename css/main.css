@@ -85,6 +85,9 @@ height: 500px;
 .nav{
   background-color: white;
 }
+.navbar{
+  background-color: white;
+}
 .menu-txt{
   color: black;
   font-size: 200%;
